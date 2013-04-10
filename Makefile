@@ -4,7 +4,7 @@ SRC_DIR         = $(PROJ_DIR)/src
 OBJ_DIR         = $(PROJ_DIR)/obj
 
 INCLUDE = -I $(INCLUDE_DIR)
-CFLAGS  = -march=i586 -fno-builtin -c -Wall $(INCLUDE)
+CFLAGS  = -march=x86-64 -fno-builtin -c -Wall $(INCLUDE)
 CC      = /usr/bin/gcc
 BIN	= http_server
 
