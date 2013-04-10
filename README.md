@@ -1,7 +1,5 @@
-*****A Simple HTTP Web Server*****
-*******************************
+A Simple HTTP Web Server
 
-Author: Hong Miao 
 
 
 Instructions to compile:
@@ -13,6 +11,7 @@ Instructions to compile:
 Instructions to run:
 
 ./obj/http_server [config_file]
+
 
 
 
