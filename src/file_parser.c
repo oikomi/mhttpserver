@@ -1,7 +1,7 @@
 /*
  * File Name : file_parser.c 
- * Author : Gaurav Tungatkar
- * Creation Date : 16-01-2011
+ * Author : Hong Miao
+ * Creation Date : 11-01-2013
  * Description :
  *
  */

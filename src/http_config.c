@@ -1,7 +1,7 @@
 /*
  * File Name : http_config.c 
- * Author : Gaurav Tungatkar
- * Creation Date : 14-01-2011
+ * Author : Hong Miao
+ * Creation Date : 14-01-2013
  * Description :
  *
  */

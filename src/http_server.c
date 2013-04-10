@@ -1,7 +1,7 @@
 /*
  * File Name : http_server.c 
- * Author : Gaurav Tungatkar
- * Creation Date : 17-01-2011
+ * Author : Hong Miao
+ * Creation Date : 17-01-2013
  * Description :
  *
  */

@@ -11,5 +11,5 @@ Instructions to compile:
 Instructions to run:
 ./obj/http_server [config_file]
 
-Copyright (c) 2012, Hong Miao. All rights reserved.
+Copyright (c) 2012 -- 2013, Hong Miao. All rights reserved.
 
